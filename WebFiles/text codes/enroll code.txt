@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ENROLLMENT FORM</title>
+</head>
+<center><body style ="background-color:black;">
+
+<h1 style="color:white;">PRO-MARK ONLINE DRUM LESSON REGISTRATION</h1>
+<p style="color:white;">ANSWER THE FOLLOWING...</p><br>
+<form action = "Course.html">
+<form style="color:white;"
+<p style="color:white;"><for ="fname"> Name: </p>
+	<input type = "text" id="fname" name="fname"><br>
+
+<p style="color:white;"><for ="lname"> Last Name: </p>
+	<input type = "text" id="lname" name="lname"><br>
+
+<p style="color:white;"><for ="ans"> Why Drumming? </p>
+	<input type = "text" id="ans" name="ans"><br>
+
+<p> Choose mode of your payment:</p>
+<<input type = "radio" id="E MONEY" name="emoney" value="ecash">
+<label for = "E Money"> E Money </label><br>
+
+<<input type = "radio" id="Bank Card" name="bank" value="cbank">
+<label for = "Bank Card"> Bank Card </label><br>
+
+<p style="color:white;"><for ="mail"> Email: </p>
+	<input type = "text" id="email" name="e-mail"><br>
+<p style="color:white;"><for ="uname"> UserName: </p>
+	<input type = "text" id="Uname" name="User-Name"><br>
+<p style="color:white;"><for ="Password"> Passcode: </p>
+	<input type = "text" id="Pass" name="Pcode"><br>
+
+<input type = "submit" value= "SIGN-UP REGISTRATION">
+</form>
+</body>
+</html>

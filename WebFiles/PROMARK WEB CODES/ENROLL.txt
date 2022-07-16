@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ENROLLMENT FORM</title>
+</head>
+<center><body style ="background-color:black;">
+
+<h1 style="color:white;">PRO-MARK ONLINE DRUM LESSON REGISTRATION</h1>
+<p style="color:white;">ANSWER THE FOLLOWING...</p><br>
+
+<form style="color:white;"
+<p style="color:white;"><for ="fname"> First Name: </p>
+	<input type = "text" id="fname" name="fname"><br>
+
+<p style="color:white;"><for ="lname"> Last Name: </p>
+	<input type = "text" id="lname" name="lname"><br>
+
+<p style="color:white;"><for ="ans"> Why Drumming? </p>
+	<input type = "text" id="ans" name="ans"><br>
+
+<p> Choose mode of your payment:</p>
+<<input type = "radio" id="E MONEY" name="emoney" value="ecash">
+<label for = "E Money"> E Money </label><br>
+
+<<input type = "radio" id="Bank Card" name="bank" value="cbank">
+<label for = "Bank Card"> Bank Card </label><br>
+
+<p style="color:white;"><for ="ans"> What Genre you are in? </p>
+	<input type = "text" id="gen" name="ans"><br>
+<p> What cymbal brand do you prefer?:</p>
+<<input type = "Zildjian" id="Zildjian" name="zd" value="zildbals">
+<label for = "Zildjian"> Zildjian </label><br>
+<<input type = "Paiste" id="paiste" name="pt" value="pbals">
+<label for = "Paiste"> Pcymbals= </label><br>
+<<input type = "Sabian" id="sabian" name="pt" value="sabbals">
+<label for = "Sabian"> Scymbals= </label><br>
+<<input type = "Meinl" id="meinl" name="ml" value="mbals">
+<label for = "Meinl"> Mcymbals= </label><br>
+
+<p> What Drum and Hardwares brand do you prefer?:</p>
+<<input type = "Pearl" id="Pearl" name="pl" value="Pdrums">
+<label for = "PEARL"> Pearl </label><br>
+<<input type = "DW" id="DW DRUMS" name="dw_drums" value="Ddrums">
+<label for = "Dw Drums"> DW </label><br>
+<<input type = "Tama" id="tama" name="tama_drums" value="Tdrums">
+<label for = "Tama Drums"> Tama </label><br>
+<<input type = "Yamaha" id="yamaha" name="yama_drums" value="Ydrums">
+<label for = "Yamaha Drums"> Yamaha </label><br>
+
+
+
+
+
+<input type = "submit" value= "SIGN-UP REGISTRATION">
+</form>
+</body>
+</html>
